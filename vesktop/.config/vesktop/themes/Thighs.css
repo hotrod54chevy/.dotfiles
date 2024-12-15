@@ -1,0 +1,58 @@
+/**
+ * @name Ayan's Thighs Theme
+ * @author Ayan | @ayanxsup
+ * @version auto updates
+ * @description Thighs Discord Theme
+ * @invite pnpzZEDrmX
+ * @source https://vsthemes.org/en/skins/discord/32889-genshin-ganyu-3.html
+ * @authorLink https://vsthemes.org/en/user/Superior+AMV/
+*/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+:root {
+  --background-image: url('https://cdn.discordapp.com/attachments/1189577446849257482/1208074808412209173/image.png?ex=65e1f657&is=65cf8157&hm=aa9ac100cded166601871466731769f5730de0f9fe840d7791d5ef9438d331a1&');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: transparent;
+  --popout-modal-blur: 0px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url('https://cdn.discordapp.com/attachments/1204917532339863592/1208090664940609616/2a01b9da6122403ffd63e2667cd64f13.png?ex=65e2051b&is=65cf901b&hm=84775463ff90269d5873ab71272260ee7dc6995c48d9156519169a6807d23485&');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.6;
+  --left-brightness: 0.6;
+  --middle-brightness: 0.6;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.6;
+  --gradient-primary: 219, 219, 164;
+  --gradient-secondary: 14, 163, 232;
+--link-colour: #94bfff;
+  --scrollbar-colour: rgba(255, 255, 255, 0.39);
+  --gradient-direction: 320deg;
+  --font: Quicksand;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+  --columns: 2;
+  --guildgap: 2;
+  --aligndms: 0;
+  --rs-small-spacing: 0px;
+  --rs-medium-spacing: 0px;
+  --rs-large-spacing: 0px;
+  --rs-small-width: 2.5px;
+  --rs-medium-width: 2.5px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #1ED883;
+  --rs-idle-color: #EE9A0E;
+  --rs-dnd-color: #F12222;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #6E29E4;
+  --rs-phone-visible: block;
+}

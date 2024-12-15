@@ -1,0 +1,22 @@
+/**
+* @name aestetick 021
+* @version 1
+* @author 021
+* @website https://vsthemes.org/user/%D0%9B%D1%8E%D0%91%D0%B8%D0%9C%D0%B8%D0%99/
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2');
+:root {
+--themeColor1: #36D1DC;
+--themeColor2: #BD61E5FF;
+--customFont: 'Baloo Bhaijaan 2';
+--homeImage: url('https://i.imgur.com/3b6TCrS.gif');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/44LiKAU.gif');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.35;
+}

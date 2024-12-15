@@ -1,0 +1,27 @@
+/**
+ * @name Natsuki!!
+ * @author Request
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/28532-nacuki.html
+ * @authorLink https://vsthemes.org/user/Request/
+ * @authorId 2
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 31,3,11;
+    --transparencyalpha: 0.2;
+    --messagetransparency: 0.5;
+    --guildchanneltransparency: 0.4;
+    --memberlistransparency: 1;
+    --accentcolor: 189,85,141;
+    --background: url("https://vsthemes.org/uploads/posts/2021-03/1616090419_36adabf26f1373e3b529b90be955a3b301ce497ar1-1920-1080v2_uhq.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}

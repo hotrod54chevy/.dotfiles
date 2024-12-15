@@ -1,0 +1,39 @@
+/**
+* @name rikka.exe
+* @description rikka takanashi theme xd
+* @version 1.0
+* @author Justsenpai_ | szopjle#4172
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+:root {
+    --background-image: url(https://images.alphacoders.com/102/1020863.jpg);
+    --friends-icon: url(https://media.tenor.com/images/a3b3e5d38ac8bbc0480829f776cd6593/tenor.gif);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 130%;
+    --main-color: rgb(83, 23, 113);
+    --main-transparency: rgba(10, 0, 27, 0.776);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(170, 74, 202, 0.212);
+    --border-lines-color: rgba(89, 5, 117, 0.521);
+    --scroll-bar-color: rgba(158, 5, 175, 0.63);
+    --font-size: 16px;
+    --selected-text-voice-color: #7628ae;
+    --channel-hover-text-color: rgb(237, 113, 244);
+    --unread-text-color: #ac36d4;
+    --user-popup-background: rgba(0, 0, 0, 0.815);
+    --scrollbar-colour: rgba(25, 72, 190, 0.651);
+    --rs-small-spacing: 1px;
+    --rs-large-spacing: 2px;
+    --rs-width: 2px;
+    --rs-avatar-shape: 42.0%;
+    --rs-online-color: #09ff00;
+    --rs-idle-color: #f87c08;
+    --rs-dnd-color: #fd0000;
+    --rs-offline-color: #242525;
+    --rs-streaming-color: #723bcf;
+    --rs-invisible-color: #8b8b8b;
+    --HSL-server-icon-size: 55px;
+    --HSL-server-spacing: 10px;
+}

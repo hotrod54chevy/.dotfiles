@@ -1,0 +1,59 @@
+/**
+ * @name Pink1-V2
+ * @author Loli_Kun
+ * @description Pochinil
+ * @version 2
+ * @donate https://boosty.to/loly.translate/donate
+*/
+
+/* Sorce Code */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
+/* Use Chat Bubbles By Shiz */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Animations/Yes.css);
+/* Windows Bar */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Windows_Bar/No.css);
+/* Offline Members */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Offline/Yes.css);
+/* User Popout Footer */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Popout_Footer/Yes.css);
+/* Full width roles on profile pop-out */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Full_Width_Roles/Yes.css);
+/* Transparency Patch */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Transparency/No.css);
+/* Use Chat Bubbles By Shiz */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
+
+:root {
+    --Background-Colour: rgb(15, 0, 10); /* Более тёмный фон с уменьшенной яркостью */
+    --Chat-Input-Background: rgba(100, 20, 100, 0.7); /* Смягченный фиолетовый фон ввода */
+   --Chat-Input-Colour: rgba(240, 220, 220, 0.9); /* Светлый розовый для ввода */
+    --Main-Colour: rgba(163, 58, 163, 0.9); /* Светло-фиолетовый для основного текста */
+    --Secondary-Main-Colour: rgba(235, 49, 151, 0.788); /* Яркий розово-красный для акцентов */
+    --Timestamp-Colour: rgba(200, 150, 200, 0.8); /* Светлый розовый для меток времени */
+    --Notification-Colour: rgba(255, 245, 245, 1); /* Увеличенная непрозрачность белого */
+    --Popout-Main-Colour: #dd3ec388; /* Яркий красный для выделения */
+    --Popout-Text-Shadow-Colour: rgba(0, 0, 0, 0.7); /* Черная тень для контраста */
+    --Text-Shadow-Colour: rgba(0, 0, 0, 0.7); /* Черная тень для текста */
+    --Unread-Message-1: #d979a3; /* Пастельный розовый для непрочитанных сообщений */
+    --Unread-Message-2: #b06183; /* Темно-розовый для непрочитанных сообщений */
+    --Scroller-Colour: rgba(255, 255, 255, 0.9); /* Светлый скроллер для контраста */
+    --Settings-Dock-Colour: rgba(255, 50, 50, 0.5); /* Более насыщенный красный */
+	--Chat-Background: Transparent;
+	--Settings-Background: Transparent;
+    --Chat-Background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://s1.hostingkartinok.com/uploads/images/2024/08/f377097669297aa5c3ff7760259b849d.jpg);
+	--Title-Background: url(https://s1.hostingkartinok.com/uploads/images/2024/08/f377097669297aa5c3ff7760259b849d.jpg);
+	--Popout-Background: url(https://cdn.discordapp.com/attachments/821557360429891607/1271582421862584462/undefined_-_Imgur.gif?ex=66b7dcea&is=66b68b6a&hm=10005b9853e06ab7fdb43743504aa7fb4267e6aa2224703bdc4d2a855cc90aba&);
+	--Emote-Popout-Background: url(https://s1.hostingkartinok.com/uploads/images/2024/08/f377097669297aa5c3ff7760259b849d.jpg);
+	--Theme-Variant: "Setting";
+	--Chat-Font-Used: "";
+	--load1: "Loli_Kun";
+	--load2: "Loli_Kun";
+	--File-Updated-2020-5-24: ;
+	--Guild-Columns: 2;
+	--ServerFolders-Guild-Columns: 2;
+	--Unread-Message-Speed: 0s;
+	--Chat-Font-Size: 16px;
+	--Chat-Avatar-Border-Radius: 4px;
+	--Background-Darkness: 0.4;
+	--customFont: Irish Grover;
+}

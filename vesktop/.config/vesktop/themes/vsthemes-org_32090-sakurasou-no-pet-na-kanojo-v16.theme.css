@@ -1,0 +1,64 @@
+/**
+ * @name Project_164
+ * @author 🛸Nod_^_noL🛸
+ * @description Сделано своими руками, с душой
+ * @authorLink https://dsc.bio/moonprincess
+ * @version 1.0
+ */
+@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/scsl.css);
+
+:root {
+    --background-image: url(http://top5-top10.ru/wp-content/uploads/2017/12/Кошечка-из-Сакурасо.jpeg);
+    --friends-icon: url(https://pa1.narvii.com/7096/2d5c1c3b02e221d0acc1b5519bc3d1e03ecf220cr1-500-499_hq.gif);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --main-color: rgb(67, 181, 129); 
+    --main-transparency: rgba(0, 0, 0, 0.43);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(0, 0, 0, 0.15);
+    --border-lines-color: hsla(0,0%,100%,.1);
+    --scroll-bar-color: rgba(255,255,255, .15);
+    --font-size: 16px;
+    --selected-text-voice-color: #f6f6f7;
+    --text-hover-color: #b9bbbe;
+    --voice-hover-color: #f6f6f7;
+    --unread-text-color: #dcddde;
+    --options-transparency: transparent;
+}
+ 
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD {
+  width: auto;
+  height: 22px;
+  padding: 0 0 0 4px;
+  line-height: 22px;
+  font-size: 0.925em;
+  color: var(--text-normal); }
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD:before, .wordmark-2iDDfm.wordmarkWindows-1v0lYD:after {
+    position: relative;
+    width: auto;
+    height: 22px; }
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD:before {
+    content: "DISCORD";
+    font-weight: 700; }
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD:after {
+    content: ", 𝐛𝐲 🛸𝐍𝐨𝐝_𝐧𝐨𝐋🛸"; }
+.wordmark-2iDDfm.wordmarkWindows-1v0lYD svg {
+    display: none; }
+ 
+.titleBar-AC4pGV > .winButtonMinMax-PBQ2gm {
+    background: #71f300 !important;
+    border-radius: 5px !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 5px 15px 5px 15px !important;
+    transition: background-color 250ms ease-in;
+}
+
+.winButtonClose-1HsbF- {
+    background: #ff0019 !important;
+    border-radius: 5px !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 5px 15px 5px 15px !important;
+    transition: background-color 250ms ease-in;
+}

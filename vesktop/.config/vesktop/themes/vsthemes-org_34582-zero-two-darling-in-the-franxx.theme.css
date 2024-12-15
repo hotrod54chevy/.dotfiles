@@ -1,0 +1,27 @@
+/**
+ * @name Zero Two - Darling in the FranXX
+ * @author Request
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/34582-zero-two-darling-in-the-franxx.html
+ * @authorLink https://vsthemes.org/user/Request/
+ * @authorId 2
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.1;
+    --messagetransparency: 0.25;
+    --guildchanneltransparency: 0.15;
+    --memberlistransparency: 0;
+    --accentcolor: 238,33,82;
+    --background: url("https://vsthemes.org/uploads/posts/2021-06/1624514885_zero-two-1638645.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}

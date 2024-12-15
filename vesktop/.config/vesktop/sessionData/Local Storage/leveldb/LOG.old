@@ -1,0 +1,20 @@
+2024/12/09-13:23:45.595 231f Reusing MANIFEST /home/hotrod54chevy/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/12/09-13:23:45.602 231f Recovering log #1088
+2024/12/09-13:23:45.602 231f Level-0 table #1091: started
+2024/12/09-13:23:45.608 231f Level-0 table #1091: 106141 bytes OK
+2024/12/09-13:23:45.613 231f Delete type=0 #1088
+2024/12/09-13:39:04.577 2320 Level-0 table #1094: started
+2024/12/09-13:39:04.584 2320 Level-0 table #1094: 48248 bytes OK
+2024/12/09-13:39:04.593 2320 Delete type=0 #1092
+2024/12/09-13:39:04.594 2320 Compacting 4@0 + 1@1 files
+2024/12/09-13:39:04.603 2320 Generated table #1095@0: 75 keys, 116950 bytes
+2024/12/09-13:39:04.603 2320 Compacted 4@0 + 1@1 files => 116950 bytes
+2024/12/09-13:39:04.612 2320 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/09-13:39:04.613 2320 Delete type=2 #1084
+2024/12/09-13:39:04.613 2320 Delete type=2 #1086
+2024/12/09-13:39:04.613 2320 Delete type=2 #1089
+2024/12/09-13:39:04.613 2320 Delete type=2 #1091
+2024/12/09-13:39:04.613 2320 Delete type=2 #1094
+2024/12/09-15:21:49.768 2320 Level-0 table #1097: started
+2024/12/09-15:21:49.774 2320 Level-0 table #1097: 19887 bytes OK
+2024/12/09-15:21:49.784 2320 Delete type=0 #1093

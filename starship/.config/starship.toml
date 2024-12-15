@@ -1,0 +1,12 @@
+format = """
+[](surface0)\
+$os\
+$username\
+$directory\
+$git_branch\
+$character"""
+
+# You can also replace your username with a neat symbol like  to save some space
+[username]
+show_always = true
+format = '[$user ]($style)'

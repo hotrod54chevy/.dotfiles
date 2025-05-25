@@ -1,0 +1,22 @@
+https://192.168.100.2:8006/?console=kvm&novnc=1&vmid=107&vmname=ArchLinux&node=2950X&resize=off&cmd= QEMU (ArchLinux) - noVNC
+https://192.168.100.2:8006/#v1:0:18:4::::::: 2950X - Proxmox Virtual Environment
+https://www.reddit.com/login/ Reddit - Dive into anything
+https://192.168.100.2:8006/#v1:0:=qemu%2F107:4:::::8:: 2950X - Proxmox Virtual Environment
+https://192.168.0.40:8006/#v1:0:18:4::::::: 2950X - Proxmox Virtual Environment
+https://192.168.0.40:8006/?console=kvm&novnc=1&vmid=100&vmname=ArchLinux&node=2950X&resize=off&cmd= QEMU (ArchLinux) - noVNC
+https://192.168.0.40:8006/#v1:0:=qemu%2F100:4::::::: 2950X - Proxmox Virtual Environment
+https://192.168.0.40:8006/?console=kvm&novnc=1&vmid=101&vmname=ArchLinux32&node=2950X&resize=off&cmd= QEMU (ArchLinux32) - noVNC
+https://192.168.0.40:8006/#v1:0:=node%2F2950X:4:::::7:: 2950X - Proxmox Virtual Environment
+https://192.168.0.40:8006/#v1:0:=qemu%2F100:4:=jsconsole::::7:: 2950X - Proxmox Virtual Environment
+https://192.168.0.40:8006/#v1:0:=qemu%2F101:4::::::: 2950X - Proxmox Virtual Environment
+https://192.168.0.40:8006/#v1:0:=qemu%2F100:4:::::7:: 2950X - Proxmox Virtual Environment
+https://192.168.100.2:8006/#v1:0:18:4:::::::=cluster FX-8350 - Proxmox Virtual Environment
+https://192.168.0.40:8006/?console=kvm&novnc=1&vmid=102&vmname=ArchBox&node=FX-8350&resize=off&cmd= QEMU (ArchBox) - noVNC
+https://192.168.100.2:8006/?console=kvm&novnc=1&vmid=102&vmname=ArchBox&node=FX-8350&resize=off&cmd= QEMU (ArchBox) - noVNC
+https://192.168.0.40:8006/?console=kvm&novnc=1&vmid=103&vmname=TrueNAS&node=FX-8350&resize=off&cmd= QEMU (TrueNAS) - noVNC
+http://192.168.0.142/#/login CasaOS
+https://192.168.0.140:31015/#!/init/admin Portainer
+https://192.168.100.2:8006/?console=kvm&novnc=1&vmid=134&vmname=ArchBox&node=FX-8350&resize=off QEMU (ArchBox) - noVNC
+https://192.168.100.2:8006/?console=kvm&novnc=1&vmid=134&vmname=ArchBox&node=FX-8350&resize=off&cmd= QEMU (ArchBox) - noVNC
+https://192.168.0.38:31015/#!/init/admin Portainer
+https://192.168.0.40:8006/?console=kvm&novnc=1&vmid=100&vmname=ArchLinux&node=2950X&resize=off QEMU (ArchLinux) - noVNC
